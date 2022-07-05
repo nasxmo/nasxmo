@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [vceed.com](vceed.com)
 
-- 💬 Ask me about **Rust, Typescript**
+- 💬 Ask me about **Rust,Golang,Typescript**
 
 - ⚡ Fun fact **I don't play games**
 
