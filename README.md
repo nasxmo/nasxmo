@@ -7,7 +7,7 @@
 ### 📙 A little bit update on myself...
 - 🔭 I’m currently working on **React(Typescript) + Golang Webapp**
 
-- 🌱 I’m currently learning **Improving my golang understanding, Rust, DevOps(Tooling)**
+- 🌱 I’m currently **Iimproving my on my golang code understanding , Rust, DevOps(Tooling)**
 
 - 👯 I’m looking to collaborate on **React, Golang and Rust**
 
@@ -15,7 +15,7 @@
 
 - 📝 I seldomly write articles on [www.vceed.com](vceed.com)
 
-- 💬 Ask me about **life! Food? Maybe**
+- 💬 Ask me about **life! Food? Maybe!**
 
 - 📫 How to reach me? **"/usr/bin/0xlilnas"**
 
