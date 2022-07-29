@@ -28,7 +28,8 @@
 
 ---
 ### 📈 A bit of stats...
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xlilnas" alt="0xlilnas" /></a> </p>
+![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlilnas&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)
 
 ---
 <h3 align="left">Connect with me:</h3>
