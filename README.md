@@ -1,5 +1,5 @@
 # Hi👋 My name is Naz M.
-### 🧑‍💻 I'm on my self-taught path to become a Software Engineer
+### 🧑‍💻 Self-taught Software Engineer
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Alt text" title="Hello World">
 
@@ -25,11 +25,6 @@
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-### 📈 A bit of stats...
-![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlilnas&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)
 
 ---
 <h3 align="left">Connect with me:</h3>
