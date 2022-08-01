@@ -1,5 +1,5 @@
 # Hi👋 My name is Naz M.
-### 🧑‍💻 Self-taught Software Engineer
+### 🧑‍💻 I'm learning programming
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Alt text" title="Hello World">
 
@@ -20,6 +20,10 @@
 - 📫 How to reach me? **"/usr/bin/0xlilnas"**
 
 - ⚡ Fun fact **I don't play Games!**
+
+---
+![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlilnas&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlilnas)
 
 ---
 ### 📝 Latest Blog posts
