@@ -28,6 +28,7 @@
 ---
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Speed Up Your Git Workflow](https://0xlilnas.hashnode.dev/how-to-speed-up-your-git-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
