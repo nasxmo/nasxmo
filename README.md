@@ -22,8 +22,8 @@
 - ⚡ Fun fact **I don't play Games!**
 
 ---
-![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlilnas&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xlilnas)
+![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasxmo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasxmo)
 
 ---
 ### 📝 Latest Blog posts
