@@ -5,9 +5,9 @@
 
 ---
 ### 📙 A little bit update on myself...
-- 🔭 I’m currently working on **React(Typescript) + Golang Webapp**
+- 🔭 I’m currently working on **React(Typescript) + Rust/Golang Webapp**
 
-- 🌱 I’m currently **improving on my golang code understanding , Rust, DevOps(Tooling)**
+- 🌱 I’m currently **improving on my Rust code understanding , Golang, DevOps(Tooling)**
 
 - 👯 I’m looking to collaborate on **React, Golang and Rust**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **life! Food? Maybe!**
 
-- 📫 How to reach me? **"/usr/bin/0xlilnas"**
+- 📫 How to reach me? **"/usr/bin/nasxmo"**
 
 - ⚡ Fun fact **I don't play Games!**
 
