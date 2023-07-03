@@ -1,5 +1,5 @@
 # Hi👋 My name is Naz M.
-### 🧑‍💻 I'm learning programming
+### 🧑‍💻 I'm a Software Engineer and I build software
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Alt text" title="Hello World">
 
