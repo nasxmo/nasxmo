@@ -25,13 +25,6 @@
 ![Naz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasxmo&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasxmo)
 
----
-### 📝 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Speed Up Your Git Workflow](https://0xlilnas.hashnode.dev/how-to-speed-up-your-git-workflow)
-<!-- BLOG-POST-LIST:END -->
-
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xlilnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xvinsmoke" height="30" width="40" /></a>
